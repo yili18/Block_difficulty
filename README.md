@@ -17,4 +17,7 @@
 ### 4. Test the PyChain Ledger by Storing Records
 * In the terminal, run the Streamlit application by using `streamlit run pychain.py`
 * A screenshot of my deployed Streamlit application to interact with the project:
-
+  
+ ![multiple_blocks](./1.PNG)
+ 
+ ![multiple_blocks](./2.PNG)
